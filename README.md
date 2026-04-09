@@ -1,23 +1,39 @@
+# My HTML & CSS Projects Portfolio
 
+Welcome! 🎉  
+This repository showcases the projects I built while learning HTML and CSS through **Udemy courses**. Each folder represents a project I created while practicing layouts, components, and responsive design, from small experiments to full websites.
 
-# The Code Magazine Blog Page
+---
 
-A simple blog page built using **HTML** and **CSS** to practice the fundamentals of web development.
+## Projects
 
-## Overview
-This project is a basic blog page inspired by *The Code Magazine*. It demonstrates the use of HTML structure and CSS styling to create a simple, visually organized webpage.
+### **1. Blog Post Page**
+- **Description:** A simple blog page demonstrating HTML structure and CSS styling.
+- **Skills:** HTML, CSS, responsive layout
+- **Folder:** `BlogPost`
 
-## Features
-- Semantic HTML structure
-- Styled with CSS
-- Basic blog page layout
-- Clean and readable design
+### **2. Chair Shop Website**
+- **Description:** A small e-commerce style page showcasing chairs, combining text, images, and sections like testimonials, features, and product listings.
+- **Skills:** HTML, CSS, Flexbox, Grid
+- **Folder:** `ChairShop`
 
-## Technologies Used
-- HTML
-- CSS
+### **3. Components / Small Experiments**
+- **Description:** A collection of mini-projects practicing elements like tables, carousels, hero sections, and other reusable components.
+- **Skills:** HTML, CSS, UI components
+- **Folder:** `Components`
 
-## Purpose
-- Learn and practice fundamental web development skills
-- Build a simple, static blog page
-- Showcase ability to hand-code websites
+### **4. Omnifood Restaurant Website**
+- **Description:** A complete restaurant management website with menus, responsive design, and structured layouts.
+- **Skills:** HTML, CSS, responsive design, advanced layout
+- **Folder:** `Omnifood`
+
+---
+
+## About My Journey
+Over time, I have practiced building pages from scratch, experimenting with layouts, components, and responsive design. Each project shows **my learning process and dedication** to mastering HTML and CSS.  
+
+This repository reflects my **growth, experimentation, and continuous effort** to improve as a web developer.  
+
+---
+
+Feel free to explore each folder and check out the code! 
